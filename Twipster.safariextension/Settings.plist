@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>DefaultValue</key>
+		<real>20</real>
+		<key>Key</key>
+		<string>fontsize</string>
+		<key>Title</key>
+		<string>Font Size</string>
+		<key>Titles</key>
+		<array>
+			<string>Small</string>
+			<string>Medium</string>
+			<string>Large</string>
+		</array>
+		<key>Type</key>
+		<string>RadioButtons</string>
+		<key>Values</key>
+		<array>
+			<real>16</real>
+			<real>20</real>
+			<real>24</real>
+		</array>
+	</dict>
+</array>
+</plist>
