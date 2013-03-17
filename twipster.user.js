@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           Twipster
 // @namespace      https://github.com/jxnblk/Twipster/
-// @version        20130303
+// @version        20130317
 // @author         jxnblk
 // @homepage       http://jxnblk.com/twipster/
 // @description    Simpler, Readabler Twitter
@@ -9,7 +9,7 @@
 // @icon           http://g.etfv.co/http://twitter.com
 // @downloadURL    https://github.com/oumu/Twipster/raw/master/twipster.user.js
 // @updateURL      https://github.com/oumu/Twipster/raw/master/twipster.user.js
-// @date           2013-03-03
+// @date           2013-03-17
 // ==/UserScript==
 var styleEl = document.createElement('style');
 styleEl.type = 'text/css';
