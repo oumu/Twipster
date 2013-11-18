@@ -5,19 +5,13 @@
   "description": "Simpler, Readabler Twitter",
   "icons": {  "48": "icon48.png",
               "128": "icon128.png" },
-  "version": "1.4",
+  "version": "1.5",
   "homepage_url": "http://jxnblk.com/twipster",
-  "options_page": "options.html",
-  "background": {
-    "scripts": ["events.js"],
-    "persistent": false
-  },
 
   "content_scripts": [
     {
       "matches": ["*://*.twitter.com/*"],
       "css": ["twipster.css"],
-      "js": ["jquery.min.js", "twipster.js"],
       "run_at": "document_end"
     }
   ]
