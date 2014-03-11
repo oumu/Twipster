@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           Twipster for Chrome
 // @namespace      https://github.com/jxnblk/Twipster/
-// @version        20131118
+// @version        20140311
 // @author         jxnblk
 // @homepage       http://jxnblk.com/twipster/
 // @description    Simpler, Readabler Twitter
@@ -9,7 +9,8 @@
 // @icon           http://g.etfv.co/http://twitter.com
 // @downloadURL    https://github.com/oumu/Twipster/raw/master/twipster-for-chrome.user.js
 // @updateURL      https://github.com/oumu/Twipster/raw/master/twipster-for-chrome.user.js
-// @date           2013-11-18
+// @date           2014-03-11
+// @run-at         document-start
 // ==/UserScript==
 var styleEl = document.createElement('style');
 styleEl.type = 'text/css';
